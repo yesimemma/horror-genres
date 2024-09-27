@@ -11,7 +11,7 @@ In a world where horror movies span countless themes and styles, the challenge l
 ### 💡 The Solution:
 The key lies in leveraging data-driven techniques like **K-means clustering** and **Natural Language Processing (NLP)**. By analyzing IMDb movie descriptions, we aim to uncover hidden connections and patterns within the horror genre.
 
-### 🎬 Our Goal:
+### 🎬 My Goal:
 To create a more refined and accurate classification of horror movie subgenres. This approach empowers filmmakers, studios, and audiences with deeper insights, transforming how we appreciate and enjoy horror cinema.
 
 Through this project, we're on a journey to make horror movie categorization not just scarier, but smarter.
